@@ -10,7 +10,7 @@
   "require": {
     "php": "^8.0",
     "area17/twill": "^3.0|3.x-dev",
-    "illuminate/support": "^10.13",
+    "illuminate/support": "^11.9",
     "laravel-json-api/laravel": "^3.0",
     "spatie/laravel-package-tools": "^1.11"
   },
