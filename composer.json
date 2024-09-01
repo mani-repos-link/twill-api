@@ -1,12 +1,6 @@
 {
-  "name": "area17/twill-api",
+  "name": "mani-repos-link/twill-api",
   "license": "Apache-2.0",
-  "authors": [
-    {
-      "name": "Patrick Vézina",
-      "email": "patrick@area17.com"
-    }
-  ],
   "require": {
     "php": "^8.0",
     "area17/twill": "^3.0|3.x-dev",
